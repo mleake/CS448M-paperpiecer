@@ -11,13 +11,14 @@ Mackenzie Leake -- I am working closely with Abe Davis and Maneesh on this proje
 The system takes an image as input, provides an interface for segmenting the image into polygons, and then generates a correctly ordered paper piecing pattern. By the end of the quarter I hope to design a quilt pattern using the system and then sew the quilt.
 
 *What is innovative about proposal?*
-Paper piecing is a popular tool in the quilting community with many known rules-of-thumb. However, designing patterns to be constructed using this technique is quite challenging. The most difficult parts are dividing a pattern into the shapes that can be sewn easily and producing a valid ordering of fabric pieces. The systems to support this kind of pattern design are poorly designed and not widely used. This quarter we plan to build a small system for designing these patterns that helps people create valid quilting patterns using this technique.
+Paper piecing is a popular tool in the quilting community with many known rules-of-thumb. Although sewing paper pieced quilts from existing patterns is relatively straightforward, designing patterns for this technique is quite challenging. The most difficult parts are dividing an image into the shapes that can be sewn easily and producing a valid ordering of fabric pieces. Existing systems to support this kind of pattern are poorly designed and not widely used. This quarter we plan to build a small system for designing these patterns that helps people create valid quilting patterns using this technique.
 
 *What do you think will be the hardest part of the project?* 
-I expect the hardest part of this project is handing the geometry and exposing the geometric constraints to the user. We think we have an initial grasp on defining valid and invalid seam shapes, but we need to figure out how to disallow or correct bad patterns.
+I expect the hardest part of this project is handling the geometry and exposing the geometric constraints to the user. We think we have an initial grasp on defining valid and invalid seam shapes, but we need to figure out how to disallow or correct bad patterns.
 
 ## Project Plans
-*Plan and milestones*: We have some initial sense of the geometric constraints and a plan for the system design. Our interface will take an image as input, provide an interface for segmenting the image, and then will produce a valid PDF pattern. We plan to spend the next 2-3 weeks implementing a basic version of the interface, and then I will spend the last two weeks using the system to make a quilt.
+*Plan and milestones*: 
+We have some initial sense of the geometric constraints and a plan for the system design. Our interface will take an image as input, provide an interface for segmenting the image, and then produce a valid PDF pattern. We plan to spend the next 2-3 weeks implementing a basic version of the interface, and then I will spend the last two weeks using the system to make a quilt.
 
 *Parts and supplies needed*: 
 Our project is primarily a software project so the supplies we will need are limited to fabric. I plan to purchase a fabric bundle with several different colors for my quilt (like [this](https://www.amazon.com/Robert-Kaufman-Cotton-Colors-Quarter/dp/B07DCZ4PX6 "this")) so I have some freedom to design some different types of blocks. I already have the thread, batting, and backing fabric as well as the rest of the supplies and equipment I need to sew the quilt.
