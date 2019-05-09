@@ -15,7 +15,7 @@ Paper piecing is a popular tool in the quilting community with many known rules-
 
 *What do you think will be the hardest part of the project?* 
 I expect the hardest parts of this project will be 
-1) designing a good paper piecing pattern: I have sewn existing patterns before but never made my own, and from what I have read, pattern design is quite challenging. Going through this process of designing a quilt block and producing a valid ordering manually will help inform my longer-term research interests in this space.
+1) Designing a good paper piecing pattern: I have sewn existing patterns before but never made my own, and from what I have read, pattern design is quite challenging. Going through this process of designing a quilt block and producing a valid ordering manually will help inform my longer-term research interests in this space.
 2) Formalizing the constraints on what makes a valid pattern: This could be a complicated computational geometry problem. Once we have a better sense for how complex the geometry is, it should be easier to estimate what kind of computational tools we can create. 
 
 ## Project Plans
